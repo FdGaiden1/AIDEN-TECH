@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<u>💫 AIDEN_TECH 💫💫ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ AIDEN_TECH AI 💫</u>
+<u>💫 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇 💫💫ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝐀𝐈𝐃𝐄𝐍_𝐓𝐄𝐂𝐇 💫</u>
 </p>
 <p align="center">
 <img src="https://telegra.ph/file/51d1eaa241382820e00c5.jpg" width="300" height="300"/>
